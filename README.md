@@ -5,7 +5,7 @@ The game tree of savior automatically detects hp and sp. Take medicine automatic
 visual studio 2019; wpf .net core 3.1
 
 # thanks
-opencv(https://github.com/opencv/opencv)
-interception(https://github.com/oblitum/Interception)
-InputInterceptor(https://github.com/0x2E757/InputInterceptor)
-adonis-ui(https://github.com/benruehl/adonis-ui)
+opencv(https://github.com/opencv/opencv)  
+interception(https://github.com/oblitum/Interception)  
+InputInterceptor(https://github.com/0x2E757/InputInterceptor)  
+adonis-ui(https://github.com/benruehl/adonis-ui)  
