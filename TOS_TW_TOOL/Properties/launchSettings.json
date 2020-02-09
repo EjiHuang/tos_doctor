@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TOS_TW_TOOL": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
