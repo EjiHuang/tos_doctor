@@ -1,5 +1,6 @@
 # tos_doctor
-The game tree of savior automatically detects hp and sp. Take medicine automatically when the value is below 70%.
+the game tree of savior automatically detects hp and sp.  
+take medicine automatically when the value is below 70%.
 
 # how to build
 visual studio 2019; wpf .net core 3.1
